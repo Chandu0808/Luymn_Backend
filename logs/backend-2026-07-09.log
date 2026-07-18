@@ -1,0 +1,11 @@
+[Scheduler] Device refresh scheduled every 15 min
+[Scheduler] Daily data backfill scheduled at 23:58
+[Scheduler] Occupancy logs reconciliation scheduled every hour
+[Startup] Manual energy logger: ON (zone/area power from zones + max_power/high_end_trim)
+[Startup] Listener process started
+[Startup] Energy logger process started
+[Startup] LoadController listener process started
+[Shutdown] Listener process stopped
+[Shutdown] Energy logger process stopped
+[Shutdown] LoadController listener process stopped
+[Shutdown] Scheduler stopped

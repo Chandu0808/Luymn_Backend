@@ -1,0 +1,130 @@
+INFO:     Started server process [24964]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[2026-07-17 14:39:51] [INFO] Manual energy logger: ON (zone/area power from zones)
+[2026-07-17 14:39:51] [PID:8320] [WARNING] [PROCESS_LOCK] Found stale lock file from dead process | StalePID: 36164 | CurrentPID: 8320 | LockFile: C:\Users\Chandana\AppData\Local\Temp\energy_logger.lock | Context: PID=8320, TID=35148
+[2026-07-17 14:39:51] [INFO] Starting listener for 2 processors
+[2026-07-17 14:39:51] [INFO] Will monitor processor 6 (093CCD90) at 192.168.1.201
+[2026-07-17 14:39:51] [INFO] Will monitor processor 1 (04270521) at 192.168.1.206
+[2026-07-17 14:39:51] [INFO] Started 2 monitoring tasks
+[2026-07-17 14:39:51] [INFO] Attempting to connect to processor 6 (093CCD90) at 192.168.1.201
+[2026-07-17 14:39:51] [INFO] Attempting to connect to processor 1 (04270521) at 192.168.1.206
+[2026-07-17 14:39:52] [INFO] Successfully connected to processor 1 (04270521)
+[2026-07-17 14:39:52] [INFO] Setting up subscriptions for processor 1
+[2026-07-17 14:39:52] [INFO] Successfully connected to processor 6 (093CCD90)
+[2026-07-17 14:39:52] [INFO] Setting up subscriptions for processor 6
+[2026-07-17 14:39:52] [WARNING] Area not found in database for area_code=993, processor_id=1
+[2026-07-17 14:39:53] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=993, zone_code=1895, device_code=1907, device_type=AthenaWirelessNode, device_name=1
+[2026-07-17 14:39:53] [WARNING] Area not found in database for area_code=6793, processor_id=6
+[2026-07-17 14:39:53] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6793, zone_code=20995, device_code=7168, device_type=Unknown, device_name=C6
+[2026-07-17 14:39:53] [WARNING] Area not found in database for area_code=4160, processor_id=1
+[2026-07-17 14:39:53] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=4160, zone_code=4625, device_code=5042, device_type=Unknown, device_name=A21
+[2026-07-17 14:39:53] [WARNING] Area not found in database for area_code=6793, processor_id=6
+[2026-07-17 14:39:53] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6793, zone_code=6806, device_code=7172, device_type=Unknown, device_name=C7
+[2026-07-17 14:39:53] [WARNING] Area not found in database for area_code=4256, processor_id=1
+[2026-07-17 14:39:53] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=4256, zone_code=23297, device_code=5070, device_type=Unknown, device_name=A28
+[2026-07-17 14:39:53] [WARNING] Area not found in database for area_code=6793, processor_id=6
+[2026-07-17 14:39:53] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6793, zone_code=6806, device_code=7176, device_type=Unknown, device_name=C8
+[2026-07-17 14:39:54] [WARNING] Area not found in database for area_code=4256, processor_id=1
+[2026-07-17 14:39:54] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=4256, zone_code=4743, device_code=5074, device_type=Unknown, device_name=A29
+[2026-07-17 14:39:54] [WARNING] Area not found in database for area_code=6793, processor_id=6
+[2026-07-17 14:39:54] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6793, zone_code=6806, device_code=7180, device_type=Unknown, device_name=C9
+[2026-07-17 14:39:54] [WARNING] Area not found in database for area_code=1995, processor_id=1
+[2026-07-17 14:39:54] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=1995, zone_code=5215, device_code=5341, device_type=Unknown, device_name=B1
+[2026-07-17 14:39:54] [WARNING] Area not found in database for area_code=6868, processor_id=6
+[2026-07-17 14:39:54] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6868, zone_code=6881, device_code=7196, device_type=Unknown, device_name=C13
+[2026-07-17 14:39:54] [WARNING] Area not found in database for area_code=5149, processor_id=1
+[2026-07-17 14:39:54] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=5149, zone_code=5232, device_code=5353, device_type=Unknown, device_name=B4
+[2026-07-17 14:39:55] [WARNING] Area not found in database for area_code=6895, processor_id=6
+[2026-07-17 14:39:55] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6895, zone_code=21011, device_code=7204, device_type=Unknown, device_name=C15
+[2026-07-17 14:39:55] [WARNING] Area not found in database for area_code=5201, processor_id=1
+[2026-07-17 14:39:55] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=5201, zone_code=5580, device_code=5750, device_type=Unknown, device_name=B9
+[2026-07-17 14:39:55] [WARNING] Area not found in database for area_code=6895, processor_id=6
+[2026-07-17 14:39:55] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6895, zone_code=21003, device_code=7208, device_type=Unknown, device_name=C16
+[2026-07-17 14:39:55] [WARNING] Area not found in database for area_code=5175, processor_id=1
+[2026-07-17 14:39:55] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=5175, zone_code=5289, device_code=5770, device_type=Unknown, device_name=B14
+[2026-07-17 14:39:55] [WARNING] Area not found in database for area_code=6702, processor_id=1
+[2026-07-17 14:39:55] [WARNING] MISSING DATA SUMMARY (non-critical) - Missing fields: area_id. Resolved values: area_id=None, area_code=6702, zone_code=6715, device_code=6743, device_type=AthenaWirelessNode, device_name=3
+[2026-07-17 14:39:56] [INFO] Manual energy: refreshed current_zone_status for 129 zones (processor_id=6, zone_code from href)
+[2026-07-17 14:39:57] [INFO] Manual energy: refreshed current_zone_status for 129 zones (processor_id=1, zone_code from href)
+[2026-07-17 14:39:59] [INFO] Starting unified listener for processor 6
+[2026-07-17 14:40:00] [INFO] Starting unified listener for processor 1
+[2026-07-17 14:40:31] [INFO] Complete Raw Area Status Message:
+[2026-07-17 14:40:31] [INFO] {
+[2026-07-17 14:40:31] [INFO]   "CommuniqueType": "ReadResponse",
+[2026-07-17 14:40:31] [INFO]   "Header": {
+[2026-07-17 14:40:31] [INFO]     "MessageBodyType": "MultipleAreaStatus",
+[2026-07-17 14:40:31] [INFO]     "StatusCode": "200 OK",
+[2026-07-17 14:40:31] [INFO]     "Url": "/area/status"
+[2026-07-17 14:40:31] [INFO]   },
+[2026-07-17 14:40:31] [INFO]   "Body": {
+[2026-07-17 14:40:31] [INFO]     "AreaStatuses": [
+[2026-07-17 14:40:31] [INFO]       {
+[2026-07-17 14:40:31] [INFO]         "href": "/area/2782/status",
+[2026-07-17 14:40:31] [INFO]         "InstantaneousPower": 302,
+[2026-07-17 14:40:31] [INFO]         "InstantaneousMaxPower": 320
+[2026-07-17 14:40:31] [INFO]       }
+[2026-07-17 14:40:31] [INFO]     ]
+[2026-07-17 14:40:31] [INFO]   }
+[2026-07-17 14:40:31] [INFO] }
+[2026-07-17 14:40:31] [INFO] Received area status for processor 1: 1 areas
+[2026-07-17 14:40:31] [INFO] Area Status (Area Code: /area/2782/status):
+[2026-07-17 14:40:31] [INFO] {
+[2026-07-17 14:40:31] [INFO]   "href": "/area/2782/status",
+[2026-07-17 14:40:31] [INFO]   "InstantaneousPower": 302,
+[2026-07-17 14:40:31] [INFO]   "InstantaneousMaxPower": 320
+[2026-07-17 14:40:31] [INFO] }
+[2026-07-17 14:40:31] [INFO] Processor 1, Area 2782: Power=302, MaxPower=320
+[2026-07-17 14:40:32] [INFO] Complete Raw Area Status Message:
+[2026-07-17 14:40:32] [INFO] {
+[2026-07-17 14:40:32] [INFO]   "CommuniqueType": "ReadResponse",
+[2026-07-17 14:40:32] [INFO]   "Header": {
+[2026-07-17 14:40:32] [INFO]     "MessageBodyType": "MultipleAreaStatus",
+[2026-07-17 14:40:32] [INFO]     "StatusCode": "200 OK",
+[2026-07-17 14:40:32] [INFO]     "Url": "/area/status"
+[2026-07-17 14:40:32] [INFO]   },
+[2026-07-17 14:40:32] [INFO]   "Body": {
+[2026-07-17 14:40:32] [INFO]     "AreaStatuses": [
+[2026-07-17 14:40:32] [INFO]       {
+[2026-07-17 14:40:32] [INFO]         "href": "/area/2782/status",
+[2026-07-17 14:40:32] [INFO]         "InstantaneousPower": 317,
+[2026-07-17 14:40:32] [INFO]         "InstantaneousMaxPower": 320
+[2026-07-17 14:40:32] [INFO]       }
+[2026-07-17 14:40:32] [INFO]     ]
+[2026-07-17 14:40:32] [INFO]   }
+[2026-07-17 14:40:32] [INFO] }
+[2026-07-17 14:40:32] [INFO] Received area status for processor 1: 1 areas
+[2026-07-17 14:40:32] [INFO] Area Status (Area Code: /area/2782/status):
+[2026-07-17 14:40:32] [INFO] {
+[2026-07-17 14:40:32] [INFO]   "href": "/area/2782/status",
+[2026-07-17 14:40:32] [INFO]   "InstantaneousPower": 317,
+[2026-07-17 14:40:32] [INFO]   "InstantaneousMaxPower": 320
+[2026-07-17 14:40:32] [INFO] }
+[2026-07-17 14:40:32] [INFO] Processor 1, Area 2782: Power=317, MaxPower=320
+[2026-07-17 14:40:33] [INFO] Complete Raw Area Status Message:
+[2026-07-17 14:40:33] [INFO] {
+[2026-07-17 14:40:33] [INFO]   "CommuniqueType": "ReadResponse",
+[2026-07-17 14:40:33] [INFO]   "Header": {
+[2026-07-17 14:40:33] [INFO]     "MessageBodyType": "MultipleAreaStatus",
+[2026-07-17 14:40:33] [INFO]     "StatusCode": "200 OK",
+[2026-07-17 14:40:33] [INFO]     "Url": "/area/status"
+[2026-07-17 14:40:33] [INFO]   },
+[2026-07-17 14:40:33] [INFO]   "Body": {
+[2026-07-17 14:40:33] [INFO]     "AreaStatuses": [
+[2026-07-17 14:40:33] [INFO]       {
+[2026-07-17 14:40:33] [INFO]         "href": "/area/2782/status",
+[2026-07-17 14:40:33] [INFO]         "InstantaneousPower": 320,
+[2026-07-17 14:40:33] [INFO]         "InstantaneousMaxPower": 320
+[2026-07-17 14:40:33] [INFO]       }
+[2026-07-17 14:40:33] [INFO]     ]
+[2026-07-17 14:40:33] [INFO]   }
+[2026-07-17 14:40:33] [INFO] }
+[2026-07-17 14:40:33] [INFO] Received area status for processor 1: 1 areas
+[2026-07-17 14:40:33] [INFO] Area Status (Area Code: /area/2782/status):
+[2026-07-17 14:40:33] [INFO] {
+[2026-07-17 14:40:33] [INFO]   "href": "/area/2782/status",
+[2026-07-17 14:40:33] [INFO]   "InstantaneousPower": 320,
+[2026-07-17 14:40:33] [INFO]   "InstantaneousMaxPower": 320
+[2026-07-17 14:40:33] [INFO] }
+[2026-07-17 14:40:33] [INFO] Processor 1, Area 2782: Power=320, MaxPower=320
